@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class InkmApplication {
 
-	public static void main(String[] args) {
+	public static voi d main(String[] args) {
 		SpringApplication.run(InkmApplication.class, args);
 	}
 
